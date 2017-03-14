@@ -1,5 +1,8 @@
 _repo: Agatha-Webb_5162
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Green, Anna Katharine
@@ -16,6 +19,8 @@ description: Celebrated as one of the most important early female writers of det
   to detail. In this classic mystery novel, Agatha Webb and a household servant are
   found dead. Detective Caleb Sweetwater works to untangle the plot that involves
   blackmail, family secrets, and murder.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5162#Agatha-Webb
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
